@@ -1,1 +1,2 @@
 This is Chapter-2 of the Git Story
+This is an updated version of Chapter-2.
